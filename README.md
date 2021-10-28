@@ -4,6 +4,10 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=chrisxyq&show_icons=true&theme=radical&hide_title=0)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxyq&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![chrisxyq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrisxyq&theme=radical&hide_title=0)](https://github.com/chrisxyq/github-readme-stats)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=chrisxyq&repo=middleware-learning&theme=radical)](https://github.com/chrisxyq/middleware-learning)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=chrisxyq&repo=spring-learning&theme=radical)](https://github.com/chrisxyq/spring-learning)
