@@ -6,6 +6,5 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=chrisxyq&repo=middleware-learning&theme=radical)](https://github.com/chrisxyq/middleware-learning)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=chrisxyq&repo=middleware-learning&theme=radical)](https://github.com/chrisxyq/middleware-learning)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=chrisxyq&repo=spring-learning&theme=radical)](https://github.com/chrisxyq/spring-learning)
 
