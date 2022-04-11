@@ -8,3 +8,18 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=chrisxyq&repo=spring-learning&theme=radical)](https://github.com/chrisxyq/spring-learning)
 
+Hi，Welcome to my GitHub!
+GIF😄 I am starfish, a super handsome boy
+
+🛠 I’m currently working with Java, Python, Scala, SQL
+
+👨🏻‍💻 I’m currently learning Full Stack Development
+
+💬 Ask me about anything, I am happy to help
+
+⚡ Fun fact: Always believe that paying and harvesting are directly proportional
+
+📫 How to reach me: jstarfish911@gmail.com
+
+Whatsapp Badge Facebook Badge 
+
