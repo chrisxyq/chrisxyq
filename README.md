@@ -2,7 +2,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:35%;" />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=chrisxyq&show_icons=true&theme=radical&hide_title=0)
 
